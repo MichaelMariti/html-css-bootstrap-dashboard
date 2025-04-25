@@ -1,3 +1,9 @@
 #logo-duck {
     width: 52px;
 }
+
+#sub-info {
+    color: grey;
+    padding: 0;
+    margin: 0 10px;
+}
